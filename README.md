@@ -69,9 +69,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/tonnamnam/tonnamnam/output/snake.svg" alt="Snake animation" />
-
-###
